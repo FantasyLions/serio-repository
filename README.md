@@ -7,7 +7,7 @@ serio maven repository
 <project>
 
 	<properties>
-		<version.serio>1.10.6</version.serio>
+		<version.serio>1.0-SNAPSHOT</version.serio>
 	</properties>
 	
         <repositories>
