@@ -28,3 +28,9 @@ serio maven repository
 	
 </project>
 ```
+
+# maven 部署命令
+
+```SHEEL
+mvn deploy -DaltDeploymentRepository=serio-core::default::file:D:/DATA/code/serio-repository
+```
