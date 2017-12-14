@@ -7,7 +7,7 @@ serio maven repository
 <project>
 
 	<properties>
-		<version.serio>1.0-SNAPSHOT</version.serio>
+		<version.serio>1.0.0</version.serio>
 	</properties>
 	
         <repositories>
@@ -20,7 +20,7 @@ serio maven repository
         
 	<dependencies>
 		<dependency>
-			<groupId>com.serio.core</groupId>
+			<groupId>com.serio</groupId>
 			<artifactId>serio-core</artifactId>
 			<version>${version.serio}</version>
 		</dependency>
