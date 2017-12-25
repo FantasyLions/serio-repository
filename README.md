@@ -8,7 +8,7 @@ serio maven repository
 
 	<properties>
 		<version.serio>1.0.0</version.serio>
-        <version.jsonrpc4j>1.0.0</version.jsonrpc4j>
+        <version.jsonrpc4j>1.6.0</version.jsonrpc4j>
 	</properties>
 	
         <repositories>
@@ -20,20 +20,20 @@ serio maven repository
 
         
 	<dependencies>
-		<dependency>
+		
+        <dependency>
 			<groupId>com.serio</groupId>
 			<artifactId>serio-core</artifactId>
 			<version>${version.serio}</version>
 		</dependency>
-	</dependencies>
 
-    <dependencies>
+
         <dependency>
             <groupId>com.serio</groupId>
             <artifactId>jsonrpc4j</artifactId>
             <version>${version.jsonrpc4j}</version>
         </dependency>
-    </dependencies>
+	</dependencies>
 
     
 	
