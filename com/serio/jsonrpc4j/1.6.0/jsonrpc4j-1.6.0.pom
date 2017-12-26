@@ -96,7 +96,7 @@
     <release_Manifest_Version>1.0</release_Manifest_Version>
     <release_Implementation_Title>com.serio:jsonrpc4j:1.6.0</release_Implementation_Title>
     <release_Implementation_Version>1.6.0</release_Implementation_Version>
-    <release_Build_Date>2017-12-25_16:02:55</release_Build_Date>
+    <release_Build_Date>2017-12-26_16:27:38</release_Build_Date>
     <release_Created_By>1.7.0_60-ea-b15 (Oracle Corporation)</release_Created_By>
     <release_Build_Java_Version>1.7.0_60-ea</release_Build_Java_Version>
     <release_X_Compile_Target_JDK>1.7</release_X_Compile_Target_JDK>
