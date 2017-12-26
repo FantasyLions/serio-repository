@@ -20,19 +20,19 @@ serio maven repository
 
         
 	<dependencies>
-		
-        <dependency>
+		<!-- serio-core -->
+		<dependency>
 			<groupId>com.serio</groupId>
 			<artifactId>serio-core</artifactId>
 			<version>${version.serio}</version>
 		</dependency>
 
-
-        <dependency>
-            <groupId>com.serio</groupId>
-            <artifactId>jsonrpc4j</artifactId>
-            <version>${version.jsonrpc4j}</version>
-        </dependency>
+		<!-- jsonrpc4j -->
+		<dependency>
+			<groupId>com.serio</groupId>
+			<artifactId>jsonrpc4j</artifactId>
+			<version>${version.jsonrpc4j}</version>
+		</dependency>
 	</dependencies>
 
     
