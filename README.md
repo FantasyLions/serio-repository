@@ -8,7 +8,7 @@ serio maven repository
 
 	<properties>
 		<version.serio>1.0.1</version.serio>
-        <version.jsonrpc4j>1.6.0</version.jsonrpc4j>
+        	<version.jsonrpc4j>1.6.0</version.jsonrpc4j>
 	</properties>
 	
         <repositories>
